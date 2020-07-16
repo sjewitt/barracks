@@ -33,7 +33,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 3590.59f;
+		viewpositionx = 3215.482f;
 		defaulttoptexture = "GRAY1";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -58,12 +58,12 @@ maps
 		defaultbottomtexture = "GRAY1";
 		uselongtexturenames = false;
 		defaultfloortexture = "FLAT1";
-		viewpositiony = -787.2287f;
+		viewpositiony = -630.3896f;
 		defaultwalltexture = "GRAY1";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.9970768f;
+		viewscale = 0.5899864f;
 		
 		scriptdocuments
 		{
@@ -75,8 +75,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 5079;
-				firstvisibleline = 120;
+				caretposition = 7890;
+				firstvisibleline = 205;
 				activetab = true;
 			}
 		}
