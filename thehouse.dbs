@@ -33,7 +33,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 3215.482f;
+		viewpositionx = 3096.158f;
 		defaulttoptexture = "GRAY1";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -58,12 +58,12 @@ maps
 		defaultbottomtexture = "GRAY1";
 		uselongtexturenames = false;
 		defaultfloortexture = "FLAT1";
-		viewpositiony = -630.3896f;
+		viewpositiony = -321.1149f;
 		defaultwalltexture = "GRAY1";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.5899864f;
+		viewscale = 2.190578f;
 		
 		scriptdocuments
 		{
