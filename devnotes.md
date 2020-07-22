@@ -329,6 +329,9 @@ TAG	sound thing TID
 // 69	26
 
 
+Script as per https://zdoom.org/wiki/ACS_LockedExecute - access to each floor in turn?
+ - add doors to the stairwell.
+
 
 
 

@@ -31,18 +31,9 @@ maps
 		
 		resources
 		{
-			
-			resource0
-			{
-				type = 0;
-				location = "D:\\Games\\Doom\\IWADs\\DOOM2.WAD";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 5413.871f;
+		viewpositionx = 3037.046f;
 		defaulttoptexture = "GRAY1";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -53,12 +44,12 @@ maps
 		{
 			backoffsetx = 0;
 			backsource = 0;
-			gridoriginy = 0;
+			gridoriginy = 0f;
 			backscaley = 100;
-			gridrotate = 0;
+			gridrotate = 0f;
 			backscalex = 100;
-			gridoriginx = 0;
-			gridsize = 16;
+			gridoriginx = 0f;
+			gridsize = 4f;
 			background = "";
 			backoffsety = 0;
 		}
@@ -67,12 +58,12 @@ maps
 		defaultbottomtexture = "GRAY1";
 		uselongtexturenames = false;
 		defaultfloortexture = "FLAT1";
-		viewpositiony = -647.1428f;
+		viewpositiony = -599.3167f;
 		defaultwalltexture = "GRAY1";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 1.68506f;
+		viewscale = 3.702076f;
 		
 		scriptdocuments
 		{
@@ -84,8 +75,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 7890;
-				firstvisibleline = 205;
+				caretposition = 13126;
+				firstvisibleline = 325;
 				activetab = true;
 			}
 		}
