@@ -334,7 +334,7 @@ Script as per https://zdoom.org/wiki/ACS_LockedExecute - access to each floor in
 
 
 
-
+sector tag 78: light block plus standard floor def
 
 
 
