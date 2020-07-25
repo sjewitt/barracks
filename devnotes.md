@@ -340,6 +340,11 @@ sector tag 78: light block plus standard floor def
 
 
 
+Need to add height test to monster activate code - move reom line special to actual code...
+
+secret teleport - block monsters
+
+secret teleport - return direction!!
 
 
 
