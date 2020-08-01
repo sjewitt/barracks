@@ -346,6 +346,7 @@ secret teleport - block monsters
 
 secret teleport - return direction!!
 
-
+platform switches - ensure that trigger does not happen until slave switches have risen.
+MAKE THE RED KEY HARD TO GET!!!!
 
 
