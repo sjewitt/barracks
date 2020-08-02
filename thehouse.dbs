@@ -33,7 +33,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 3037.046f;
+		viewpositionx = 2686.718f;
 		defaulttoptexture = "GRAY1";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -44,12 +44,12 @@ maps
 		{
 			backoffsetx = 0;
 			backsource = 0;
-			gridoriginy = 0f;
+			gridoriginy = 0;
 			backscaley = 100;
-			gridrotate = 0f;
+			gridrotate = 0;
 			backscalex = 100;
-			gridoriginx = 0f;
-			gridsize = 4f;
+			gridoriginx = 0;
+			gridsize = 128;
 			background = "";
 			backoffsety = 0;
 		}
@@ -58,12 +58,12 @@ maps
 		defaultbottomtexture = "GRAY1";
 		uselongtexturenames = false;
 		defaultfloortexture = "FLAT1";
-		viewpositiony = -599.3167f;
+		viewpositiony = -890.857f;
 		defaultwalltexture = "GRAY1";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 3.702076f;
+		viewscale = 1.2962f;
 		
 		scriptdocuments
 		{
