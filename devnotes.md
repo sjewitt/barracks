@@ -349,4 +349,6 @@ secret teleport - return direction!!
 platform switches - ensure that trigger does not happen until slave switches have risen.
 MAKE THE RED KEY HARD TO GET!!!!
 
+barrier width:
+2832 -> 3328 = 496 + pillar = 544
 
