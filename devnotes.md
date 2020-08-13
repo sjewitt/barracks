@@ -352,3 +352,27 @@ MAKE THE RED KEY HARD TO GET!!!!
 barrier width:
 2832 -> 3328 = 496 + pillar = 544
 
+13/08/20
+---------
+  - Split wall 3D sectors lengthways to do textures
+  - Add windowsill 3D sectors above trap window shutters
+  - ~~ make window shutters openable from inside (switch? or just a window action? ) ~~
+ 
+ consolidate gnd-1st floor window 3D sectors def:
+  - FLAT1
+  - FLAT1
+  - ceil 152
+  - floor 64
+  - light 160
+ 
+ 
+ Tags to split into inner and outer sectors:
+ 8 (windows)
+ 29 (platform doors)
+ 11 (main door wall)
+ 
+entry slope over slime sea stack y: -580
+
+ 
+
+
