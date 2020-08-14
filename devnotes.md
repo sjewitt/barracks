@@ -376,8 +376,9 @@ entry slope over slime sea stack y: -580
 
 EXIT LOGIC:
 -------------
- - Level 3 SE door to stairs cannot be opened from inside
-    - switch (s1) needs to be added to NE room. This CANNOT be triggered until the switch on SE platform is activated. But as this already activated the arachnos, that is a challenge. 
+ - Level 3 SE door to stairs cannot be opened from inside (TODO)
+    - switch (s1) needs to be added to NE room. 
+        - This CANNOT be triggered until the switch on SE platform is activated. But as this already activated the arachnos, that is a challenge. 
  - Red key to open the SW door
     - activate arachnos
  - SE switch 
