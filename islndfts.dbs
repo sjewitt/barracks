@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 7533.057f;
+		viewpositionx = 2996.62f;
 		defaulttoptexture = "GRAY1";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -28,24 +28,52 @@ maps
 		{
 			backoffsetx = 0;
 			backsource = 0;
-			gridoriginy = 0;
+			gridoriginy = 0f;
 			backscaley = 100;
-			gridrotate = 0;
+			gridrotate = 0f;
 			backscalex = 100;
-			gridoriginx = 0;
-			gridsize = 32;
+			gridoriginx = 0f;
+			gridsize = 16f;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "GRAY1";
 		defaultfloortexture = "FLAT1";
-		viewpositiony = 3193.985f;
+		viewpositiony = -790.4053f;
 		defaultwalltexture = "GRAY1";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.7025001f;
+		viewscale = 2.006405f;
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+				}
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 17455;
+				firstvisibleline = 496;
+				activetab = true;
+			}
+		}
 	}
 }
