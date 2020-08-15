@@ -400,4 +400,9 @@ These are  bed defs AND must be added to floors/roof control sector:
 FUCKNUTS!!!!
 ------------
 Combine stff done on 'IslandFortress.wad' (steps, additional monster placements - and extra 3D floors in comp rooms/beds) with 'islndfts.wad' (pillar decorations, bridge to pillars). Use islndfts.wad as master!!!
+ - check each, make list of diffs!
+ - lights 
+ - beds
+ - cliffs
+ - sea pillar etc...
 
