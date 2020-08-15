@@ -76,53 +76,53 @@ Starting at one immediately to the right of the canal, in void. Going clockwise 
 
 sector	ceiling	floor	ceiltex		floortex	walltex		tag	notes
 -------------------------------------------------------------------------------------
-#2	-8	-128	fwater1		fwater1		gray1		2	water
-#5	0	16	flat1		flat1		door1		2	water
-#9	64	-8	flat20		flat20		gray1		5	main gate moving control sector
-#23	256	240	flat1		flat1		gray1		-
-#170	392	320	ceil5_1		flat1		door1		-
-#256	392	384	ceil5_1		ceil5_1		doortrak	-	roof (multi)
-#46	252	244	flat23		flat23		gray1		2	walkway
-#192	252	244	flat23		flat23		shawn2		2	walkway
-#86	152	64	flat1		flat1		gray1		-	window wall, gnd floor
-#87	281	192	flat1		flat1		gray1		-	window wall, 1st floor
-#89	385	320	flat1		flat1		gray1		-	window wall, 2nd floor
-#231	320	256	flat1		flat1		SPCDOOR3	36	NE sentry door control
-#90	128	112	flat20		flat20		doortrak	-	1st floor
-#91	256	248	flat20		flat20		doortrak	-	2nd floor
-#92	392	64	ceil5_1		flat1		gray1		-	wall above main door
-#263	128	64	flat20		flat1		gray1		-	gnd floor internal door upper wall
-#264	256	192	flat20		flat1		gray1		-	1st floor internal door upper wall
-#263	384	320	flat20		flat1		gray1		-	2nd floor internal door upper wall
+ #2	-8	-128	fwater1		fwater1		gray1		2	water
+ #5	0	16	flat1		flat1		door1		2	water
+ #9	64	-8	flat20		flat20		 gray1		5	main gate moving control sector
+ #23	256	240	flat1		flat1		gray1		-
+ #170	392	320	ceil5_1		flat1		door1		-
+ #256	392	384	ceil5_1		ceil5_1		doortrak	-	roof (multi)
+ #46	252	244	flat23		flat23		gray1		2	walkway
+ #192	252	244	flat23		flat23		shawn2		2	walkway
+ #86	152	64	flat1		flat1		gray1		-	window wall, gnd floor
+ #87	281	192	flat1		flat1		gray1		-	window wall, 1st floor
+ #89	385	320	flat1		flat1		gray1		-	window wall, 2nd floor
+ #231	320	256	flat1		flat1		SPCDOOR3	36	NE sentry door control
+ #90	128	112	flat20		flat20		doortrak	-	1st floor
+ #91	256	248	flat20		flat20		 doortrak	-	2nd floor
+ #92	392	64	ceil5_1		flat1		gray1		-	wall above main door
+ #263	128	64	flat20		flat1		gray1		-	gnd floor internal door upper wall
+ #264	256	192	flat20		flat1		gray1		-	1st floor internal door upper wall
+ #263	384	320	flat20		flat1		gray1		-	2nd floor internal door upper wall
 
 NOTE: central doors (do not have a 2nd floor set, so need separate tag? can I do multi-linedef here?):
-#283	128	64	flat20		flat1		gray1		-	gnd floor door upper
-#284	256	192	flat20		flat1		gray1		-	1st floor internal door upper wall
-#232	320	256	flat1		flat1		SPCDOOR3	37	SE sentry door control
-#149	392	384	ceil5_1		ceil5_1		doortrak	-	roof (multi) above stairs
+ #283	128	64	flat20		flat1		gray1		-	gnd floor door upper
+ #284	256	192	flat20		flat1		gray1		-	1st floor internal door upper wall
+ #232	320	256	flat1		flat1		SPCDOOR3	37	SE sentry door control
+ #149	392	384	ceil5_1		ceil5_1		doortrak	-	roof (multi) above stairs
 
 NOTE: flight 1 is normal sector floor heights:
-#148	256	224	flat1		flat1		gray1		-	step, flight 2
-#150	248	216	flat1		flat1		gray1		-	step, flight 2
-#151	240	208	flat1		flat1		gray1		-	step, flight 2
-#152	232	200	flat1		flat1		gray1		-	step, flight 2
-#153	224	192	flat1		flat1		gray1		-	step, flight 2
-#154	216	184	flat1		flat1		gray1		-	step, flight 2
-#155	208	176	flat1		flat1		gray1		-	step, flight 2
-#156	200	168	flat1		flat1		gray1		-	step, flight 2
-#157	192	160	flat1		flat1		gray1		-	step, flight 2
-#158	184	152	flat1		flat1		gray1		-	step, flight 2
-#159	176	144	flat1		flat1		gray1		-	step, flight 2
-#160	168	136	flat1		flat1		gray1		-	step, flight 2
-#161	160	128	flat1		flat1		gray1		-	step, flight 2
-#162	152	120	flat1		flat1		gray1		-	step, flight 2
-#163	144	112	flat1		flat1		gray1		-	step, flight 2
-#164	136	104	flat1		flat1		gray1		-	step, flight 2
-#165	128	96	flat1		flat1		gray1		-	step, flight 2	
-#233	384	248	flat1		flat20		gray1		-	wall at end of flight 1
+ #148	256	224	flat1		flat1		gray1		-	step, flight 2
+ #150	248	216	flat1		flat1		gray1		-	step, flight 2
+ #151	240	208	flat1		flat1		gray1		-	step, flight 2
+ #152	232	200	flat1		flat1		gray1		-	step, flight 2
+ #153	224	192	flat1		flat1		gray1		-	step, flight 2
+ #154	216	184	flat1		flat1		gray1		-	step, flight 2
+ #155	208	176	flat1		flat1		gray1		-	step, flight 2
+ #156	200	168	flat1		flat1		gray1		-	step, flight 2
+ #157	192	160	flat1		flat1		gray1		-	step, flight 2
+ #158	184	152	flat1		flat1		gray1		-	step, flight 2
+ #159	176	144	flat1		flat1		gray1		-	step, flight 2
+ #160	168	136	flat1		flat1		gray1		-	step, flight 2
+ #161	160	128	flat1		flat1		gray1		-	step, flight 2
+ #162	152	120	flat1		flat1		gray1		-	step, flight 2
+ #163	144	112	flat1		flat1		gray1		-	step, flight 2
+ #164	136	104	flat1		flat1		gray1		-	step, flight 2
+ #165	128	96	flat1		flat1		gray1		-	step, flight 2	
+ #233	384	248	flat1		flat20		gray1		-	wall at end of flight 1
 
-#230	320	256	flat1		flat1		SPCDOOR3	38	SW sentry door control
-#229	320	256	flat1		flat1		SPCDOOR3	35	NW sentry door control
+ #230	320	256	flat1		flat1		SPCDOOR3	38	SW sentry door control
+ #229	320	256	flat1		flat1		SPCDOOR3	35	NW sentry door control
 
 Control sectors for internal doors:
 -----------------------------------
@@ -138,9 +138,9 @@ third control sector row:	2nd floor
 proceed CLOCKWISE from main gate. i.e each set of doors for a floor starts at the SE corner room,
 
 
-#39	64	0	flat1		flat1		SPCDOOR3	42	NE, gnd, office door
-#39	192	128	flat1		flat1		SPCDOOR3	43	NE, gnd, office door
-#39	320	256	flat1		flat1		SPCDOOR3	44	NE, gnd, office door
+ #39	64	0	flat1		flat1		SPCDOOR3	42	NE, gnd, office door
+ #39	192	128	flat1		flat1		SPCDOOR3	43	NE, gnd, office door
+ #39	320	256	flat1		flat1		SPCDOOR3	44	NE, gnd, office door
 
 
 logic for multilevel doors:
@@ -352,13 +352,12 @@ MAKE THE RED KEY HARD TO GET!!!!
 barrier width:
 2832 -> 3328 = 496 + pillar = 544
 
-13/08/20
----------
+### 13/08/20
   - Split wall 3D sectors lengthways to do textures
   - Add windowsill 3D sectors above trap window shutters
   - ~~ make window shutters openable from inside (switch? or just a window action? ) ~~
  
- consolidate gnd-1st floor window 3D sectors def:
+#### consolidate gnd-1st floor window 3D sectors def:
   - FLAT1
   - FLAT1
   - ceil 152
@@ -366,7 +365,7 @@ barrier width:
   - light 160
  
  
- Tags to split into inner and outer sectors:
+#### Tags to split into inner and outer sectors:
  8 (windows)
  29 (platform doors)
  11 (main door wall)
@@ -374,15 +373,24 @@ barrier width:
 entry slope over slime sea stack y: -580
 
 
-EXIT LOGIC:
--------------
+### EXIT LOGIC:
  - Level 3 SE door to stairs cannot be opened from inside
     - switch (s1) needs to be added to NE room. This CANNOT be triggered until the switch on SE platform is activated. But as this already activated the arachnos, that is a challenge. 
  - Red key to open the SW door
     - activate arachnos
  - SE switch 
 
+###BEDS
 
+#### Tags to replace
+Need new tags (below) as they already define something, so I need to copy the def 
  
-
+ 
+#### New tags
+These are  bed defs AND must be added to floors/roof control sector:
+ 108 - pillows, 1st only 
+ 110, 1st, 2nd
+ 
+ 109 - bed, 1st only
+111 - bed 1st, 2nd
 
