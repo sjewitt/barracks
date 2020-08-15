@@ -396,3 +396,8 @@ These are  bed defs AND must be added to floors/roof control sector:
  109 - bed, 1st only
 111 - bed 1st, 2nd
 
+
+FUCKNUTS!!!!
+------------
+Combine stff done on 'IslandFortress.wad' (steps, additional monster placements - and extra 3D floors in comp rooms/beds) with 'islndfts.wad' (pillar decorations, bridge to pillars). Use islndfts.wad as master!!!
+
