@@ -406,3 +406,33 @@ Combine stff done on 'IslandFortress.wad' (steps, additional monster placements 
  - cliffs
  - sea pillar etc...
 
+
+16:24 17/08/2020
+
+brutal doom issues:
+-------------------
+https://forum.zdoom.org/viewtopic.php?f=3&t=55437 (dormant actors)
+
+beautiful doom issues:
+----------------------
+key!!!
+
+
+
+ - lights in stair corridors
+ - reduce lighting in corridors
+ - why the fuck is the hall and the room JOINED???
+ - shorten computers in 1sf floorWest room or split textures (use silver or compspan)
+ - demons in 2nd floor bedroom
+ - demons in 2nd floor corridors
+ - WTF do I do about the exit logic?
+	need to decide what to do with arachnos and NW room - let's have a secret, protected by a vertical forcefield? Use same logic as per the doors and your z-pos.
+ - make exit VISIBLE from the red platform?
+ - Add secret item to tele dest (can I make the tele plat a secret?)
+ - change building lighting to control sector lighting?
+ - re-fix the superimposed doortrak texture!!
+	- it's just the five doors
+ - fix repeated exit switch triggering (bars will descend tooo far...)
+	- also, slow them
+
+
