@@ -436,3 +436,10 @@ key!!!
 	- also, slow them
 
 
+
+
+new lights - need ceiling adjust:
+112	x=-16	y=32 
+113	x=16	y=8
+
+
