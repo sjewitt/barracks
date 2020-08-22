@@ -449,3 +449,21 @@ new lights - need ceiling adjust:
 TABLE for top 1st floor!
 
 
+ - COMPUTER ENDS! Bad texture aligmnet (alter 8Mu at each end) 		- OK
+ - men in 2nd floor							- OK
+ - men in corridors?							
+ - men on opening stair doors						- OK
+ - trench texture at back						- OK
+ - split bak chaingunners into alcoves					- OK
+ - move bullet box within reach gnd floor				- OK
+ - gnd floor computer texture align					- OK
+ - 2x chaingunners on stair - one at top w. libe blocking		- ok
+ - 2nd floor monsters in bedroom					- OK
+ - platform secret needs to be rocket launcher				- OK
+ - revenants failed to trigger						- OK
+ - misaligned crate texture						- OK
+ - health in gnd floor W room?
+ - more goodies outside? NEED TO PLAYTEST THIS
+
+ - Add the security droid custom monster to the computer rooms as security thing!!!
+
