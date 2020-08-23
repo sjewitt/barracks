@@ -1,11 +1,11 @@
 ===========================================================================
 Archive Maintainer : (special instructions if any)
 Update to : 
-Advanced engine needed : GZDoom
+Advanced engine needed : GZDoom 4.x (tested with)
 Primary purpose : Single play
 ===========================================================================
 Title : Island Fortress
-Filename : islndfts.WAD))
+Filename : IslandFortress.WAD))
 Release date : August 2020
 Author : smeghammer
 Email Address : smeghammer@live.com
@@ -24,7 +24,7 @@ Music : No
 Graphics : Yes (sky)
 Dehacked/BEX Patch : No
 Demos : No
-Other : No
+Other : R667 rocket turret
 Other files required : Doom2.wad
 * Play Information *
 
@@ -34,13 +34,13 @@ Single Player : Designed for
 Cooperative 2-4 Player : No
 Deathmatch 2-4 Player : No
 Other game styles : None
-Difficulty Settings : Not implemented
+Difficulty Settings : Implemented, prbbably not very well.
 * Construction *
 
 Base : New from scratch
 Build Time : 6 weeks?
 Editor(s) used : Eureka, Slade3, UDB (a bit)
-Known Bugs : Beautiful Doom fails to recognise getting the blue key. Is fine with Brutal Doom and plain GZDoom.
+Known Bugs : Beautiful Doom fails to recognise scripting for key/door logic. Is fine with Brutal Doom and plain GZDoom.
 May Not Run With : Anything that does not support 3D floors and other zdoom features.
 Tested With : GZDoom (Ubuntu 18,  Windows 10)
 
