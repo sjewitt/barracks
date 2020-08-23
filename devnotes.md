@@ -467,3 +467,9 @@ TABLE for top 1st floor!
 
  - Add the security droid custom monster to the computer rooms as security thing!!!
 
+
+10:11 23/08/2020:
+-----------------
+
+Rocket turret seems not to respondto thing_activate. Do box instead...
+
