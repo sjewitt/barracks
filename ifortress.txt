@@ -1,0 +1,63 @@
+===========================================================================
+Archive Maintainer : (special instructions if any)
+Update to : 
+Advanced engine needed : GZDoom 4.x (tested with)
+Primary purpose : Single play
+===========================================================================
+Title : Island Fortress
+Filename : IslandFortress.WAD))
+Release date : August 2020
+Author : smeghammer
+Email Address : smeghammer@live.com
+Other Files By Author : hellbreach, belial's ruin
+Misc. Author Info : Biker. code, father...
+
+Description : An island with a fortress. , accessed from a long bridge over an ocean. Much killing ensues.
+
+Additional Credits to : 
+===========================================================================
+* What is included *
+
+New levels : 1
+Sounds : No
+Music : No
+Graphics : Yes (sky)
+Dehacked/BEX Patch : No
+Demos : No
+Other : R667 rocket turret
+Other files required : Doom2.wad
+* Play Information *
+
+Game : DOOM2
+Map # : MAP01
+Single Player : Designed for
+Cooperative 2-4 Player : No
+Deathmatch 2-4 Player : No
+Other game styles : None
+Difficulty Settings : Implemented, prbbably not very well.
+* Construction *
+
+Base : New from scratch
+Build Time : 6 weeks?
+Editor(s) used : Eureka, Slade3, UDB (a bit)
+Known Bugs : Beautiful Doom fails to recognise scripting for key/door logic. Is fine with Brutal Doom and plain GZDoom.
+May Not Run With : Anything that does not support 3D floors and other zdoom features.
+Tested With : GZDoom (Ubuntu 18,  Windows 10)
+
+* Copyright / Permissions *
+
+Authors (MAY) use the contents of this file as a base for
+modification or reuse. Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+
+You MAY distribute this file, provided you include this text file, with
+no modifications. You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc.) as long as you include this file 
+intact. I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+* Where to get the file that this text file describes *
+
+The Usual:
+Web sites: https://github.com/sjewitt/barracks/raw/master/thehouse3.wad
+FTP sites:
